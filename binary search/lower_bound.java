@@ -16,7 +16,7 @@ public class lower_bound {
     }
     public static void main(String  args[]){
         int arr[]={1,2,3,3,5,8,8,10,10,11};
-        int tar=4;
+        int tar=2;
         System.out.println(lowerBound(tar,arr));
     } 
 }
